@@ -1,0 +1,216 @@
+Sr. No.,gender,Degree,Roll No.,1st year percent,2nd year percent,3rd Year percent,4th Year Percent,Project marks,Total,Work Experience,specialisation,ON Campus Placement,Salary of ON campus Placement Student,OFF Campus Placement,Salary of OFF Campus Placement Student,Job Location of Placed student
+1,M,Biomedical Engineer,B1,67,91,58,55,58.8,65.96,No,Embedded C ,Placed,270000,,,Mumbai
+2,M,Biomedical Engineer,B3,79.33,78.33,77.48,86.5,66.28,77.584,Yes,Electronic Product Design,Placed,200000,,,Mumbai
+3,M,Electronic Engineer,E1,65,68,64,75,57.8,65.96,No,Electronic Product Design,Placed,250000,,,Mumbai
+4,M,Biomedical Engineer,B4,56,52,52,66,59.43,57.08,Yes,Embedded C ,Not Placed,,Placed,200000,Delhi
+5,M,Electronic Engineer,E2,85.8,73.6,73.3,96.8,55.5,77,No,Electronic Product Design,Placed,425000,,,Mumbai
+6,M,Biomedical Engineer,B5,55,49.8,67.25,55,51.58,55.72,Yes,Electronic Product Design,Not Placed,,Placed,325000,Banglore
+7,F,Electronic Engineer,E3,46,49.2,79,74.28,53.29,60.35,Yes,Electronic Product Design,Not Placed,,Placed,265000,Banglore
+8,M,Biomedical Engineer,B6,82,64,66,67,62.14,68.22,Yes,Electronic Product Design,Placed,252000,,,Mumbai
+9,M,Electronic Engineer,E4,73,79,72,91.34,61.29,75.32,No,Electronic Product Design,Placed,231000,,,Mumbai
+10,M,Electronic Engineer,E6,58,70,61,54,52.21,59.02,Yes,Electronic Product Design,Not Placed,,Placed,256700,Delhi
+11,M,Electronic Engineer,E7,58,61,60,62,60.85,60.37,Yes,Embedded C ,Placed,260000,,,Mumbai
+12,M,Electronic Engineer,E8,69.6,68.4,78.3,60,63.7,68,Yes,Electronic Product Design,Placed,250000,,,Mumbai
+13,F,Electronic Engineer,E9,47,55,65,62,65.04,58.8,Yes,Embedded C ,Placed,235000,,,Mumbai
+14,F,Electronic Engineer,E10,77,87,59,68,68.63,71.92,No,Electronic Product Design,Placed,218000,,,Mumbai
+15,M,Electronic Engineer,E11,62,47,50,76,54.96,57.99,Yes,Embedded C ,Placed,411000,,,Mumbai
+16,F,Electronic Engineer,E12,65,75,69,72,64.66,69.13,Yes,Electronic Product Design,Placed,200000,,,Mumbai
+17,M,Electronic Engineer,E13,63,66.2,65.6,60,62.54,63.46,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+18,F,Electronic Engineer,E14,55,67,64,60,67.28,62.65,Yes,Electronic Product Design,Not Placed,,Placed,312800,Hydrabad
+19,F,Electronic Engineer,E20,63,66,64,68,64.08,65.01,Yes,Embedded C ,Not Placed,,Placed,286000,Hydrabad
+20,M,Electronic Engineer,E21,60,67,70,50.48,77.89,65.074,Yes,Electronic Product Design,Placed,236000,,,Indore
+21,M,Electronic Engineer,E22,62,65,66,50,56.7,59.94,Yes,Embedded C ,Placed,265000,,,Mumbai
+22,F,Electronic Engineer,E24,79,76,85,95,69.06,80.812,No,Electronic Product Design,Not Placed,,Placed,318500,Indore
+23,F,Biomedical Engineer,B10,69.8,60.8,72.23,55.53,68.81,65.454,No,Embedded C ,Placed,360000,,,Bhopal
+24,F,Biomedical Engineer,B11,77.4,60,64.74,92,63.62,69.6,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+25,M,Biomedical Engineer,B12,76.5,97.7,78.86,97.4,74.01,84.6,No,Electronic Product Design,Placed,360000,,,Delhi
+26,F,Electronic Engineer,E27,52.58,54.6,50.2,76,65.33,59.742,Yes,Electronic Product Design,Placed,393000,,,Banglore
+27,M,Electronic Engineer,E28,71,79,66,94,57.55,73.51,Yes,Electronic Product Design,Placed,240000,,,Mumbai
+28,M,Electronic Engineer,E29,63,67,66,68,57.69,64.33,No,Embedded C ,Placed,265000,,,Mumbai
+29,M,Electronic Engineer,E30,76.76,76.5,67.5,73.35,64.15,71.2,Yes,Electronic Product Design,Placed,350000,,,Mumbai
+30,M,Electronic Engineer,E31,62,67,58,77,51.29,63.04,Yes,Electronic Product Design,Not Placed,,Placed,346000,Indore
+31,F,Electronic Engineer,E32,64,73.5,73,52,56.7,63.84,No,Embedded C ,Placed,250000,,,Mumbai
+32,F,Biomedical Engineer,B14,67,53,65,64,58.32,61.464,Yes,Embedded C ,Not Placed,,Placed,450000,Banglore
+33,F,Electronic Engineer,E33,61,81,66.4,50.89,62.21,64.28,No,Embedded C ,Placed,278000,,,Mumbai
+34,F,Electronic Engineer,E35,87,65,81,88,72.78,78.75,Yes,Electronic Product Design,Placed,260000,,,Mumbai
+35,M,Instrumentation Engineer,IE10,62,51,52,68.44,62.77,59.24,Yes,Embedded C ,Not Placed,,Placed,550000,Delhi
+36,F,Electronic Engineer,E38,69,78,72,71,62.74,70.54,No,Embedded C ,Placed,300000,,,Mumbai
+37,M,Electronic Engineer,E40,51,44,57,64,51.45,53.49,No,Electronic Product Design,Not Placed,,Not Placed,,
+38,F,Biomedical Engineer,B16,79,76,65.6,58,55.47,66.81,No,Embedded C ,Placed,320000,,,Mumbai
+39,F,Electronic Engineer,E41,73,58,66,53.7,56.86,61.51,No,Embedded C ,Placed,240000,,,Mumbai
+40,M,Biomedical Engineer,B18,81,68,64,93,62.56,73.71,No,Electronic Product Design,Not Placed,,Placed,321100,Indore
+41,F,Electronic Engineer,E43,78,77,80,60,66.72,72.34,No,Electronic Product Design,Placed,287000,,,Mumbai
+42,F,Electronic Engineer,E44,74,63.16,65,65,69.76,67.4,Yes,Embedded C ,Not Placed,,Placed,267000,Pune
+43,M,Instrumentation Engineer,IE12,49,39,65,63,51.21,53.44,No,Electronic Product Design,Not Placed,,Placed,246800,Pune
+44,M,Electronic Engineer,E46,87,87,68,95,62.9,79.98,No,Embedded C ,Placed,300000,,,Bhopal
+45,F,Electronic Engineer,E47,77,73,81,89,69.7,77.94,Yes,Electronic Product Design,Placed,200000,,,Mumbai
+46,F,Biomedical Engineer,B20,76,64,72,58,66.53,67.3,No,Embedded C ,Not Placed,,Placed,458000,Delhi
+47,F,Electronic Engineer,E50,70.89,71.98,65.6,68,71.63,70,No,Embedded C ,Not Placed,,Placed,430000,Delhi
+48,M,Electronic Engineer,E51,63,60,57,78,54.55,62.51,Yes,Electronic Product Design,Placed,204000,,,Mumbai
+49,M,Electronic Engineer,E52,63,62,68,64,62.46,63.89,No,Electronic Product Design,Placed,250000,,,Mumbai
+50,F,Instrumentation Engineer,IE14,50,37,52,65,56.11,52.02,No,Embedded C ,Not Placed,,Placed,287000,Indore
+51,F,Electronic Engineer,E55,75.2,73.2,68.4,65,62.98,68.95,No,Embedded C ,Placed,200000,,,Mumbai
+52,M,Electronic Engineer,E56,54.4,61.12,56.2,67,62.65,60.27,No,Embedded C ,Not Placed,,Placed,326000,Hydrabad
+53,F,Electronic Engineer,E57,40.89,45.83,53,71.2,65.49,55.28,No,Embedded C ,Not Placed,,Placed,342000,Banglore
+54,M,Biomedical Engineer,B23,80,70,72,87,71.04,76,No,Embedded C ,Placed,450000,,,Bhopal
+55,F,Electronic Engineer,E58,74,60,69,78,65.56,69.39,No,Embedded C ,Placed,216000,,,Mumbai
+56,M,Electronic Engineer,E59,60.4,66.6,65,71,52.71,63.14,No,Embedded C ,Placed,220000,,,Mumbai
+57,M,Electronic Engineer,E60,63,71.4,61.4,68,66.88,66.13,No,Electronic Product Design,Placed,240000,,,Mumbai
+58,M,Electronic Engineer,E61,68,76,74,80,63.59,72.32,No,Electronic Product Design,Placed,360000,,,Mumbai
+59,M,Electronic Engineer,E62,74,62,68,74,57.99,67.12,No,Electronic Product Design,Placed,268000,,,Mumbai
+60,M,Biomedical Engineer,B24,52.6,65.58,72.11,57.6,56.66,60.89,No,Electronic Product Design,Placed,265000,,,Mumbai
+61,M,Electronic Engineer,E63,74,70,72,60,57.24,66.64,Yes,Electronic Product Design,Placed,260000,,,Mumbai
+62,M,Electronic Engineer,E65,84.2,73.4,66.89,61.6,62.48,69.71,No,Electronic Product Design,Placed,300000,,,Mumbai
+63,F,Biomedical Engineer,B25,86.5,64.2,67.4,59,59.69,67.35,No,Electronic Product Design,Placed,240000,,,Mumbai
+64,M,Electronic Engineer,E66,61,70,64,68.5,59.5,64.6,No,Embedded C ,Not Placed,,Placed,263000,Pune
+65,M,Electronic Engineer,E70,80,73,75,61,58.78,69.55,No,Electronic Product Design,Placed,240000,,,Mumbai
+66,M,Electronic Engineer,E71,54,47,57,89.69,57.1,60.95,No,Embedded C ,Not Placed,,Placed,287000,Pune
+67,M,Electronic Engineer,E72,83,74,66,68.92,58.46,70.07,No,Embedded C ,Placed,275000,,,Mumbai
+68,M,Electronic Engineer,E73,80.92,78.5,67,68.71,60.99,71.22,No,Electronic Product Design,Placed,275000,,,Mumbai
+69,F,Biomedical Engineer,B27,69.7,47,72.7,79,59.24,65.52,No,Embedded C ,Not Placed,,Placed,218700,Pune
+70,M,Biomedical Engineer,B28,73,73,66,70,68.07,70.04,Yes,Electronic Product Design,Placed,275000,,,Mumbai
+71,M,Biomedical Engineer,B29,82,61,62,89,65.45,71.89,No,Electronic Product Design,Placed,360000,,,Mumbai
+72,M,Electronic Engineer,E74,75,70.29,71,95,66.94,75.64,No,Electronic Product Design,Placed,240000,,,Mumbai
+73,M,Electronic Engineer,E75,84.86,67,78,95.5,68.53,78.77,No,Electronic Product Design,Placed,240000,,,Mumbai
+74,M,Electronic Engineer,E76,64.6,83.83,71.72,86,59.75,73.18,No,Electronic Product Design,Placed,218000,,,Mumbai
+75,M,Electronic Engineer,E77,56.6,64.8,70.2,84.27,67.2,68.61,No,Electronic Product Design,Placed,336000,,,Delhi
+76,F,Electronic Engineer,E78,59,62,77.5,74,67,67.9,No,Embedded C ,Not Placed,,Placed,185000,Pune
+77,F,Electronic Engineer,E79,66.5,70.4,71.93,61,64.27,66.82,No,Electronic Product Design,Placed,230000,,,Mumbai
+78,M,Biomedical Engineer,B31,64,80,65,69,57.65,67.13,Yes,Electronic Product Design,Placed,500000,,,Mumbai
+79,M,Biomedical Engineer,B32,84,90.9,64.5,86.04,59.42,76.97,No,Electronic Product Design,Placed,270000,,,Mumbai
+80,F,Biomedical Engineer,B34,69,62,66,75,67.99,68,Yes,Embedded C ,Not Placed,,Placed,200000,Pune
+81,F,Electronic Engineer,E80,69,62,69,67,62.35,65.87,Yes,Embedded C ,Placed,240000,,,Mumbai
+82,M,Electronic Engineer,E81,81.7,63,67,86,70.2,73.58,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+83,M,Electronic Engineer,E82,63,67,74,82,60.44,69.28,Yes,Electronic Product Design,Not Placed,,Placed,326000,Hydrabad
+84,M,Biomedical Engineer,B35,84,79,68,84,66.69,76.33,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+85,M,Biomedical Engineer,B36,70,63,70,55,62,64,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+86,F,Electronic Engineer,E85,83.84,89.83,77.2,78.74,76.18,81.158,Yes,Electronic Product Design,Placed,400000,,,Mumbai
+87,M,Electronic Engineer,E86,62,63,64,67,57.03,62.6,No,Electronic Product Design,Placed,220000,,,Mumbai
+88,M,Instrumentation Engineer,IE16,59.6,51,60,75,59.08,60.93,Yes,Embedded C ,Not Placed,,Placed,225000,Indore
+89,F,Electronic Engineer,E87,66,62,73,58,64.36,64.67,No,Embedded C ,Placed,210000,,,Mumbai
+90,F,Biomedical Engineer,B37,84,75,69,62,62.36,70.47,Yes,Embedded C ,Placed,210000,,,Mumbai
+91,F,Electronic Engineer,E88,85,90,82,92,68.03,83.4,No,Electronic Product Design,Placed,300000,,,Mumbai
+92,M,Electronic Engineer,E89,52,57,50.8,67,62.79,57.91,Yes,Embedded C ,Not Placed,,Placed,324000,Indore
+93,F,Electronic Engineer,E90,60.23,69,66,72,59.47,65.34,No,Electronic Product Design,Placed,230000,,,Mumbai
+94,M,Electronic Engineer,E91,52,62,54,72,55.41,59.08,Yes,Embedded C ,Not Placed,,Placed,321000,Indore
+95,M,Electronic Engineer,E92,58,62,64,53.88,54.97,58.57,Yes,Electronic Product Design,Placed,260000,,,Mumbai
+96,M,Electronic Engineer,E93,73,78,65,95.46,62.16,74.72,Yes,Electronic Product Design,Placed,420000,,,Mumbai
+97,F,Electronic Engineer,E94,76,70,76,66,64.44,70.48,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+98,F,Electronic Engineer,E95,70.5,62.5,61,93.91,69.03,71.38,Yes,Electronic Product Design,Not Placed,,Not Placed,,
+99,F,Electronic Engineer,E96,69,73,65,70,57.31,66.86,No,Electronic Product Design,Placed,220000,,,Mumbai
+100,M,Biomedical Engineer,B40,54,82,63,50,59.47,61.69,No,Electronic Product Design,Not Placed,,Placed,432000,Banglore
+101,F,Electronic Engineer,E96,45,57,58,56.39,64.95,56.26,Yes,Embedded C ,Not Placed,,Placed,467000,Delhi
+102,M,Electronic Engineer,E97,63,72,68,78,60.44,68.288,No,Embedded C ,Placed,380000,,,Mumbai
+103,F,Electronic Engineer,E98,77,61,68,57.5,61.31,64.96,Yes,Electronic Product Design,Placed,300000,,,Hydrabad
+104,M,Biomedical Engineer,B41,73,78,73,85,65.83,74.96,Yes,Embedded C ,Placed,240000,,,Indore
+105,M,Electronic Engineer,E99,69,63,65,55,58.23,62.04,Yes,Embedded C ,Placed,360000,,,Indore
+106,M,Biomedical Engineer,B43,59,64,58,85,55.3,64.26,Yes,Embedded C ,Not Placed,,Placed,532000,Delhi
+107,M,Biomedical Engineer,B44,61.08,50,54,71,65.69,60.35,Yes,Electronic Product Design,Not Placed,,Placed,386000,Banglore
+108,M,Electronic Engineer,E101,82,90,83,80,73.52,81.7,No,Embedded C ,Placed,200000,,,Mumbai
+109,M,Electronic Engineer,E102,61,82,69,84,58.31,70.86,No,Electronic Product Design,Placed,300000,,,Mumbai
+110,M,Biomedical Engineer,B45,52,63,65,86,56.09,64.41,Yes,Embedded C ,Not Placed,,Placed,453000,Delhi
+111,F,Biomedical Engineer,B46,69.5,70,72,57.2,54.8,64.7,No,Embedded C ,Placed,250000,,,Mumbai
+112,M,Biomedical Engineer,B47,51,54,61,60,60.64,57.32,Yes,Embedded C ,Not Placed,,Placed,376000,Indore
+113,M,Electronic Engineer,E105,58,61,61,58,53.94,58.38,Yes,Embedded C ,Placed,250000,,,Mumbai
+114,F,Electronic Engineer,E106,73.96,79,67,72.15,63.08,71.03,No,Electronic Product Design,Placed,280000,,,Mumbai
+115,M,Electronic Engineer,E107,65,68,69,53.7,55.01,62.14,No,Embedded C ,Placed,250000,,,Mumbai
+116,F,Electronic Engineer,E108,73,63,66,89,60.5,70.3,No,Electronic Product Design,Placed,216000,,,Mumbai
+117,M,Electronic Engineer,E109,68.2,72.8,66.6,96,70.85,74.89,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+118,M,Biomedical Engineer,B48,77,75,73,80,67.05,74.41,No,Electronic Product Design,Placed,240000,,,Mumbai
+119,M,Biomedical Engineer,B49,76,80,78,97,70.48,80.29,Yes,Embedded C ,Placed,276000,,,Mumbai
+120,M,Electronic Engineer,E110,60.8,68.4,64.6,82.66,64.34,68.14,Yes,Electronic Product Design,Placed,940000,,,Mumbai
+121,M,Electronic Engineer,E111,58,40,59,73,58.81,57.76,No,Embedded C ,Not Placed,,Placed,342000,Delhi
+122,F,Biomedical Engineer,B50,64,67,69.6,55.67,71.49,65.53,Yes,Embedded C ,Placed,250000,,,Mumbai
+123,F,Electronic Engineer,E112,66.5,66.8,69.3,80.4,71,70.8,Yes,Electronic Product Design,Placed,236000,,,Mumbai
+124,M,Electronic Engineer,E113,74,59,73,60,56.7,64.54,Yes,Embedded C ,Placed,240000,,,Mumbai
+125,M,Instrumentation Engineer,IE18,67,71,64.33,64,61.26,65.51,Yes,Embedded C ,Placed,250000,,,Pune
+126,F,Electronic Engineer,E115,84,73,73,75,73.33,75.66,No,Electronic Product Design,Placed,350000,,,Mumbai
+127,F,Biomedical Engineer,B52,79,61,75.5,70,68.2,70.74,Yes,Electronic Product Design,Placed,210000,,,Mumbai
+128,F,Electronic Engineer,E117,72,60,69,55.5,58.4,62.98,No,Embedded C ,Placed,250000,,,Pune
+129,M,Biomedical Engineer,B53,80.4,73.4,77.72,81.2,76.26,77.79,Yes,Embedded C ,Placed,400000,,,Delhi
+130,M,Electronic Engineer,E118,76.7,89.7,66,90,68.55,78.19,Yes,Electronic Product Design,Placed,250000,,,Mumbai
+131,M,Electronic Engineer,E119,62,65,60,84,64.15,67.03,No,Electronic Product Design,Not Placed,,Placed,465000,Banglore
+132,F,Instrumentation Engineer,IE20,74.9,57,62,80,60.78,66.93,Yes,Electronic Product Design,Placed,360000,,,Mumbai
+133,M,Electronic Engineer,E121,67,68,64,74.4,53.49,65.36,Yes,Embedded C ,Placed,300000,,,Mumbai
+134,M,Electronic Engineer,E122,73,64,77,65,60.98,67.99,Yes,Embedded C ,Placed,250000,,,Mumbai
+135,F,Electronic Engineer,E123,77.44,92,72,94,67.13,80.51,Yes,Electronic Product Design,Placed,250000,,,Mumbai
+136,F,Electronic Engineer,E124,72,56,69,55.6,65.63,63.64,No,Embedded C ,Placed,200000,,,Mumbai
+137,F,Electronic Engineer,E125,47,59,64,78,61.58,62,Yes,Electronic Product Design,Not Placed,,Placed,523000,Banglore
+138,M,Electronic Engineer,E126,67,63,72,56,60.41,63.68,No,Embedded C ,Placed,225000,,,Mumbai
+139,F,Biomedical Engineer,B54,82,64,73,96,71.77,77.35,Yes,Electronic Product Design,Placed,250000,,,Mumbai
+140,M,Electronic Engineer,E127,77,70,59,58,54.43,63.68,Yes,Electronic Product Design,Placed,220000,,,Mumbai
+141,M,Electronic Engineer,E128,65,64.8,69.5,56,56.94,62.44,Yes,Electronic Product Design,Placed,265000,,,Mumbai
+142,M,Electronic Engineer,E129,66,64,60,60,61.9,62.38,Yes,Embedded C ,Not Placed,,Placed,421000,Hydrabad
+143,M,Biomedical Engineer,B55,85,60,73.43,60,61.29,67.94,Yes,Electronic Product Design,Placed,260000,,,Mumbai
+144,M,Electronic Engineer,E131,77.67,64.89,70.67,89,60.39,70.52,No,Electronic Product Design,Placed,300000,,,Mumbai
+145,M,Electronic Engineer,E132,52,50,61,60,58.52,56.3,Yes,Electronic Product Design,Not Placed,,Placed,243000,Pune
+146,M,Biomedical Engineer,B57,89.4,65.66,71.25,72,63.23,72.3,No,Embedded C ,Placed,400000,,,Mumbai
+147,M,Electronic Engineer,E134,62,63,66,85,55.14,66.22,No,Embedded C ,Placed,233000,,,Mumbai
+148,M,Electronic Engineer,E135,70,74,65,83,62.28,70.85,No,Electronic Product Design,Placed,300000,,,Mumbai
+149,F,Instrumentation Engineer,IE23,77,86,56,57,64.08,68.01,No,Electronic Product Design,Placed,240000,,,Mumbai
+150,M,Electronic Engineer,E137,44,58,55,64.25,58.54,55.95,Yes,Embedded C ,Not Placed,,Placed,270000,Indore
+151,M,Biomedical Engineer,B58,71,58.66,58,56,61.3,60.99,Yes,Electronic Product Design,Placed,690000,,,Mumbai
+152,M,Electronic Engineer,E138,65,65,75,83,58.87,69.37,No,Electronic Product Design,Placed,270000,,,Mumbai
+153,F,Biomedical Engineer,B60,75.4,60.5,84,98,65.25,76.63,No,Electronic Product Design,Placed,240000,,,Mumbai
+154,M,Biomedical Engineer,B61,49,59,65,86,62.48,64.29,Yes,Electronic Product Design,Placed,340000,,,Mumbai
+155,M,Electronic Engineer,E141,53,63,60,70,53.2,59.84,Yes,Electronic Product Design,Placed,250000,,,Mumbai
+156,M,Electronic Engineer,E142,51.57,74.66,59.9,56.15,65.99,61.65,Yes,Embedded C ,Not Placed,,Placed,368000,Indore
+157,M,Biomedical Engineer,B62,84.2,69.4,65,80,52.72,70.26,Yes,Embedded C ,Placed,255000,,,Mumbai
+158,M,Electronic Engineer,E145,66.5,62.5,60.9,93.4,55.03,67.66,No,Electronic Product Design,Placed,300000,,,Mumbai
+159,M,Biomedical Engineer,B65,67,63,64,60,61.87,63.17,Yes,Electronic Product Design,Not Placed,,Placed,420000,Bhopal
+160,M,Electronic Engineer,E147,52,49,58,62,60.59,56.31,Yes,Embedded C ,Not Placed,,Placed,320000,Bhopal
+161,M,Biomedical Engineer,B67,87,74,65,75,72.29,74.65,Yes,Embedded C ,Placed,300000,,,Mumbai
+162,M,Electronic Engineer,E150,55.6,51,57.5,57.63,62.72,56.88,Yes,Embedded C ,Not Placed,,Placed,235000,Bhopal
+163,M,Electronic Engineer,E151,74.2,87.6,77.25,75.2,66.06,76.06,Yes,Electronic Product Design,Placed,285000,,,Mumbai
+164,M,Biomedical Engineer,B68,63,67,64,75,66.46,67.09,No,Electronic Product Design,Placed,500000,,,Mumbai
+165,F,Electronic Engineer,E153,67.16,72.5,63.35,53.04,65.52,64.31,No,Electronic Product Design,Placed,250000,,,Mumbai
+166,F,Electronic Engineer,E154,63.3,78.33,74,80,74.56,74.03,Yes,Electronic Product Design,Not Placed,,Placed,380000,Bhopal
+167,M,Electronic Engineer,E156,62,62,60,63,52.38,59.87,Yes,Embedded C ,Placed,240000,,,Mumbai
+168,M,Biomedical Engineer,B70,67.9,62,67,58.1,75.71,66.14,Yes,Electronic Product Design,Not Placed,,Placed,460000,Delhi
+169,F,Electronic Engineer,E160,48,51,58,60,58.79,55.15,Yes,Embedded C ,Not Placed,,Placed,543000,Indore
+170,M,Biomedical Engineer,B73,59.96,42.16,61.26,54.48,65.48,56.66,No,Embedded C ,Not Placed,,Placed,320000,Bhopal
+171,F,Electronic Engineer,E161,63.4,67.2,60,58.06,69.28,63.58,No,Embedded C ,Not Placed,,Placed,460000,Bhopal
+172,M,Electronic Engineer,E163,80,80,72,63.79,66.04,72.36,Yes,Electronic Product Design,Placed,290000,,,Indore
+173,M,Electronic Engineer,E164,73,58,56,84,52.64,64.72,No,Embedded C ,Placed,300000,,,Banglore
+174,F,Biomedical Engineer,B76,52,52,55,67,59.32,57.06,Yes,Embedded C ,Not Placed,,Placed,320000,Banglore
+175,M,Biomedical Engineer,B77,73.24,50.83,64.27,64,66.23,63.71,Yes,Electronic Product Design,Placed,500000,,,Delhi
+176,M,Biomedical Engineer,B78,63,62,65,87.5,60.69,67.63,No,Embedded C ,Not Placed,,Placed,345000,Indore
+177,F,Electronic Engineer,E168,59,60,56,55,57.9,57.58,Yes,Embedded C ,Placed,220000,,,Mumbai
+178,F,Electronic Engineer,E170,73,97,79,89,70.81,81.76,Yes,Electronic Product Design,Placed,650000,,,Delhi
+179,M,Biomedical Engineer,B80,68,56,68,73,68.07,66.61,No,Embedded C ,Placed,350000,,,Mumbai
+180,F,Biomedical Engineer,B81,77.8,64,64.2,75.5,72.14,70.72,No,Embedded C ,Not Placed,,Placed,264000,Pune
+181,M,Electronic Engineer,E175,65,71.5,62.8,57,56.6,62.58,Yes,Electronic Product Design,Placed,265000,,,Mumbai
+182,M,Biomedical Engineer,B82,62,60.33,64.21,63,60.02,62.02,No,Embedded C ,Not Placed,,Placed,430000,Delhi
+183,M,Instrumentation Engineer,IE27,52,65,57,75,59.81,61.76,Yes,Electronic Product Design,Not Placed,,Placed,452000,Bhopal
+184,M,Electronic Engineer,E178,65,77,69,60,61.82,66.56,No,Embedded C ,Placed,276000,,,Mumbai
+185,F,Electronic Engineer,E180,56.28,62.83,59.79,60,57.29,59.23,No,Embedded C ,Not Placed,,Placed,340000,Bhopal
+186,F,Instrumentation Engineer,IE30,88,72,78,82,71.43,78.28,No,Embedded C ,Placed,252000,,,Mumbai
+187,F,Electronic Engineer,E182,52,64,61,55,62.93,58.98,No,Electronic Product Design,Not Placed,,Placed,450000,Banglore
+188,M,Biomedical Engineer,B84,78.5,65.5,67,95,64.86,74.17,Yes,Electronic Product Design,Placed,280000,,,Mumbai
+189,M,Electronic Engineer,E184,61.8,47,54.38,57,56.13,56.06,No,Electronic Product Design,Not Placed,,Placed,321000,Indore
+190,F,Electronic Engineer,E185,54,77.6,69.2,95.65,66.94,72.67,No,Electronic Product Design,Not Placed,,Placed,432000,Hydrabad
+191,F,Electronic Engineer,E186,64,70.2,61,50,62.5,61.54,No,Electronic Product Design,Not Placed,,Placed,543000,Delhi
+192,M,Electronic Engineer,E187,67,61,72,72,61.01,66.6,No,Electronic Product Design,Placed,264000,,,Mumbai
+193,M,Electronic Engineer,E188,65.2,61.4,64.8,93.4,57.34,68.42,Yes,Electronic Product Design,Placed,270000,,,Mumbai
+194,F,Instrumentation Engineer,IE32,60,63,56,80,56.63,63.12,Yes,Embedded C ,Placed,300000,,,Mumbai
+195,M,Electronic Engineer,E190,52,55,56.3,59,64.74,57.4,No,Electronic Product Design,Not Placed,,Placed,321000,Indore
+196,M,Electronic Engineer,E195,66,76,72,84,58.95,71.39,Yes,Embedded C ,Placed,275000,,,Mumbai
+197,M,Biomedical Engineer,B87,72,63,77.5,78,54.48,68.99,Yes,Electronic Product Design,Placed,250000,,,Mumbai
+198,F,Biomedical Engineer,B88,83.96,53,91,59.32,69.71,71.39,No,Embedded C ,Placed,260000,,,Mumbai
+199,F,Instrumentation Engineer,IE35,67,70,65,88,71.96,72.39,No,Embedded C ,Not Placed,,Not Placed,,
+200,M,Electronic Engineer,E198,69,65,57,73,55.8,63.96,No,Embedded C ,Placed,265000,,,Mumbai
+201,M,Electronic Engineer,E202,69,60,65,87.55,52.81,66.87,No,Electronic Product Design,Placed,300000,,,Mumbai
+202,M,Electronic Engineer,E204,54.2,63,58,79,58.44,62.52,No,Embedded C ,Not Placed,,Placed,430000,Bhopal
+203,M,Biomedical Engineer,B90,70,63,66,61.28,60.11,64.07,No,Embedded C ,Placed,240000,,,Mumbai
+204,M,Electronic Engineer,E207,55.68,61.33,56.87,66,58.3,59.63,Yes,Embedded C ,Placed,260000,,,Mumbai
+205,F,Electronic Engineer,E208,74,73,73,80,67.69,73.53,Yes,Electronic Product Design,Placed,210000,,,Mumbai
+206,M,Electronic Engineer,E209,61,62,65,62,56.81,61.36,No,Electronic Product Design,Placed,250000,,,Mumbai
+207,M,Electronic Engineer,E210,41,42,60,97,53.39,58.67,Yes,Electronic Product Design,Not Placed,,Placed,320000,Bhopal
+208,M,Electronic Engineer,E211,83.33,78,61,88.56,71.55,76.48,Yes,Electronic Product Design,Placed,300000,,,Mumbai
+209,F,Electronic Engineer,E212,43,60,65,92.66,62.92,64.71,No,Embedded C ,Not Placed,,Placed,420000,Bhopal
+210,M,Electronic Engineer,E213,62,72,65,67,56.49,64.49,No,Electronic Product Design,Placed,216000,,,Mumbai
+211,M,Electronic Engineer,E214,80.6,82,77.6,91,74.49,81.13,No,Electronic Product Design,Placed,400000,,,Mumbai
+212,M,Biomedical Engineer,B93,58,60,72,74,53.62,63.52,No,Electronic Product Design,Placed,275000,,,Mumbai
+213,M,Electronic Engineer,E217,67,67,73,59,69.72,67.14,Yes,Electronic Product Design,Placed,295000,,,Mumbai
+214,F,Electronic Engineer,E221,74,66,58,70,60.23,65.64,No,Embedded C ,Placed,204000,,,Mumbai
+215,M,Electronic Engineer,E224,62,58,53,89,60.22,64.44,No,Embedded C ,Not Placed,,Placed,460000,Banglore
