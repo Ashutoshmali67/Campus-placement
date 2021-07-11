@@ -12,16 +12,24 @@ Table of Content-:
 5.Result 
 
 1.Reason to choose These Project
+
 So,Campus Placement is one of the important topic for Students.many Students choose the collage according to the previous Placements record of collage. But thay don't know their are certain criteria Based on that criteria thay are eligible for campus placement.
 
 2.Graph Which is used
+
   1.Bar Graph
+  
   2.Pie chart
+  
   3.countplot
+  
   4.Heatmap
+  
 for plotting i used matplotlib.pyplot and seaborn 
 
+
 3.Workdone
+
 1.by using min() and max() i got the Highest and Lowest Salary get by student details.
 
 2.By using nlargest() and nsmallest() i got the maximum Total score By student detail.
